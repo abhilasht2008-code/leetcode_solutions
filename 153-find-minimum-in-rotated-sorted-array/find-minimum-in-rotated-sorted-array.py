@@ -1,3 +1,3 @@
 class Solution(object):
     def findMin(self, nums):
-        return min(nums)
+      return min(nums)
